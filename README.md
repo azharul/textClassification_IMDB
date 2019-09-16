@@ -1,5 +1,7 @@
 ## IMDB Text classification
+
 **Objective: classify IMDB reviews**
+
 **Models:**
 
   1. GlobalAveragePooling
